@@ -1,6 +1,6 @@
 ## Hi! 👋
 
-I'm Sharif, a full-stack dev from New Jersey who's obsessed with the startup world. There's something addictive about building stuff from scratch where every decision actually matters.
+I'm Sharif, a Software Engineer based in NYC who's obsessed with the startup world. There's something addictive about building stuff from scratch where every decision actually matters.
 
 I bounce between mobile apps, web apps, and blockchain projects - basically wherever the interesting problems are. My approach? Kaizen - small improvements that add up to something amazing over time.
 
