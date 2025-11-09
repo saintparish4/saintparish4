@@ -114,15 +114,7 @@ Privacy-preserving data pipeline implementing multi-strategy PII detection (rege
 - Integrated ML recommendation APIs driving 35% improvement in user engagement
 - Applied defensive coding practices with comprehensive error handling for system reliability
 - Collaborated across engineering, product, and business stakeholders to implement solutions
-
----
-
-## 🌱 My Approach
-
-I engineer with **Kaizen** (continuous improvement) in mind. Every commit is an opportunity to write better code, every bug a chance to build more resilient systems, and every user interaction feedback for the next iteration.
-
-I focus on **systems thinking**—understanding how components interact, optimizing for measurable outcomes, and never losing sight of the end users. Whether debugging distributed systems or architecting new features, I prioritize solutions that work in production, not just in theory.
-
+  
 ---
 
 ## 📫 Let's Build Together
