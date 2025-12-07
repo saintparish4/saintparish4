@@ -1,4 +1,4 @@
-# Hey, I'm Sharif 👋
+# Hey, I'm Sharif �
 
 Software engineer building across the modern web stack — from React frontends to distributed backends to smart contracts. I care about performance, scalability, and building systems that hold up under load. I ship fast and iterate often. 
 
