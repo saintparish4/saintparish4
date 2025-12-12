@@ -1,6 +1,6 @@
 # Hey, I'm Sharif 
 
-Software engineer building across the modern web stack — from React frontends to distributed backends to smart contracts. I care about performance, scalability, and building systems that hold up under load. I ship fast and iterate often. 
+I'm a systems engineer building low-latency infrastructure (C++), security tooling (Rust), and healthcare applications (TypeScript/Rails). Healthcare operations background + full-stack technical execution.
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-000000?style=for-the-badge)](https://sharif-sigma.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sharifparish)
@@ -8,7 +8,7 @@ Software engineer building across the modern web stack — from React frontends 
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -18,7 +18,7 @@ Software engineer building across the modern web stack — from React frontends 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 **Frameworks & Runtime**
@@ -44,6 +44,23 @@ Software engineer building across the modern web stack — from React frontends 
 
 ---
 
+## Featured Projects
+
+### [Winter Square](https://github.com/saintparish4/winter-square)
+**C++ | Lock-Free Concurrency | Network Programming**
+
+### [Nora](https://github.com/saintparish4/nora)
+**TypeScript | Rails | PostgreSQL | OpenAI API**
+
+AI-powered healthcare appointment coordination platform.
+
+### [Stealth](https://github.com/saintparish4/stealth)
+**Rust | Static Analysis | Smart Contract Securtiy**
+
+Solidity security scanner detecting 7 vulnerability categories through static analysis. Parses raw contracts without compilation, includes confidence scoring for remediation prioritization.
+
+---
+
 <div align="center">
-  Repeated failures lead to success
+  Building the infrastructure layer between raw data and intelligent systems
 </div>
