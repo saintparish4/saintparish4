@@ -1,6 +1,6 @@
 # Hey, I'm Sharif 
 
-I'm a systems engineer building low-latency infrastructure (C++), security tooling (Rust), and healthcare applications (TypeScript/Rails). Healthcare operations background + full-stack technical execution.
+I'm a software engineer building low-latency infrastructure (Go), security tooling (Rust), and healthcare applications (TypeScript/Rails). Healthcare operations background + full-stack technical execution.
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-000000?style=for-the-badge)](https://sharif-sigma.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sharifparish)
@@ -46,18 +46,20 @@ I'm a systems engineer building low-latency infrastructure (C++), security tooli
 
 ## Featured Projects
 
-### [Winter Square](https://github.com/saintparish4/winter-square)
-**C++ | Lock-Free Concurrency | Network Programming**
-
-### [Nora](https://github.com/saintparish4/nora)
+### [Nora Health](https://mai-omega.vercel.app/get-care)
 **TypeScript | Rails | PostgreSQL | OpenAI API**
 
 AI-powered healthcare appointment coordination platform.
 
-### [Stealth](https://github.com/saintparish4/stealth)
-**Rust | Static Analysis | Smart Contract Securtiy**
+### [Stealth](https://stealth-plum-beta.vercel.app/)
+**Rust | Static Analysis | Smart Contract Security**
 
 Solidity security scanner detecting 7 vulnerability categories through static analysis. Parses raw contracts without compilation, includes confidence scoring for remediation prioritization.
+
+### [APX](https://apx-psi.vercel.app/)
+**WEB3 Healthcare**
+
+Decentralized Healthcare Claims Verification System.
 
 ---
 
